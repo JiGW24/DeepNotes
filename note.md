@@ -2,6 +2,7 @@
 type: Type
 color: green
 _icon: note
+_order: 0
 ---
 
 # Note
